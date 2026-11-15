@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://smabdulmueid97.github.io/long-to-short-video/"><img alt="Live" src="https://img.shields.io/badge/Live-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" /></a>
   <a href="https://github.com/smabdulmueid97/long-to-short-video/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/smabdulmueid97/long-to-short-video?style=flat-square" /></a>
   <a href="https://github.com/smabdulmueid97/long-to-short-video"><img alt="Claude Code skill" src="https://img.shields.io/badge/Claude_Code-skill-blueviolet?style=flat-square" /></a>
   <a href="https://github.com/smabdulmueid97/long-to-short-video"><img alt="ffmpeg" src="https://img.shields.io/badge/ffmpeg-9%3A16_1080x1920-007808?style=flat-square" /></a>
@@ -14,6 +15,10 @@
 <p align="center">
   One long video → <b>5–10 standalone shorts</b> for YouTube Shorts, Instagram Reels, Facebook Reels, TikTok, Bilibili, LinkedIn, and X.<br />
   Every clip must make sense with <b>no context</b> from the long video.
+</p>
+
+<p align="center">
+  🔗 <b><a href="https://smabdulmueid97.github.io/long-to-short-video/">Live: https://smabdulmueid97.github.io/long-to-short-video/</a></b>
 </p>
 
 <p align="center">
